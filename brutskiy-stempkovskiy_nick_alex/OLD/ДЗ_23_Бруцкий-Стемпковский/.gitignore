@@ -1,0 +1,4 @@
+*.zip
+/to_train
+/to_test
+/to_val
