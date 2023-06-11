@@ -1,0 +1,213 @@
+Epoch 1/30
+387/387 [==============================] - ETA: 0s - loss: 0.0381 - iou: 0.0058
+Epoch 1: iou improved from -inf to 0.00584, saving model to detection_net.h5
+387/387 [==============================] - 217s 499ms/step - loss: 0.0381 - iou: 0.0058 - val_loss: 0.0260 - val_iou: 0.0096
+Epoch 2/30
+387/387 [==============================] - ETA: 0s - loss: 0.0263 - iou: 0.0119
+Epoch 2: iou improved from 0.00584 to 0.01190, saving model to detection_net.h5
+387/387 [==============================] - 202s 509ms/step - loss: 0.0263 - iou: 0.0119 - val_loss: 0.0259 - val_iou: 0.0126
+Epoch 3/30
+387/387 [==============================] - ETA: 0s - loss: 0.0353 - iou: 0.0157
+Epoch 3: iou improved from 0.01190 to 0.01571, saving model to detection_net.h5
+387/387 [==============================] - 206s 533ms/step - loss: 0.0353 - iou: 0.0157 - val_loss: 0.0245 - val_iou: 0.0198
+Epoch 4/30
+387/387 [==============================] - ETA: 0s - loss: 0.0224 - iou: 0.0325
+Epoch 4: iou improved from 0.01571 to 0.03249, saving model to detection_net.h5
+387/387 [==============================] - 196s 508ms/step - loss: 0.0224 - iou: 0.0325 - val_loss: 0.0226 - val_iou: 0.0298
+Epoch 5/30
+387/387 [==============================] - ETA: 0s - loss: 0.0199 - iou: 0.0504
+Epoch 5: iou improved from 0.03249 to 0.05038, saving model to detection_net.h5
+387/387 [==============================] - 204s 528ms/step - loss: 0.0199 - iou: 0.0504 - val_loss: 0.0200 - val_iou: 0.0696
+Epoch 6/30
+387/387 [==============================] - ETA: 0s - loss: 0.0195 - iou: 0.0590
+Epoch 6: iou improved from 0.05038 to 0.05898, saving model to detection_net.h5
+387/387 [==============================] - 196s 506ms/step - loss: 0.0195 - iou: 0.0590 - val_loss: 0.0215 - val_iou: 0.0447
+Epoch 7/30
+387/387 [==============================] - ETA: 0s - loss: 0.0180 - iou: 0.0973
+Epoch 7: iou improved from 0.05898 to 0.09729, saving model to detection_net.h5
+387/387 [==============================] - 206s 532ms/step - loss: 0.0180 - iou: 0.0973 - val_loss: 0.0190 - val_iou: 0.1274
+Epoch 8/30
+387/387 [==============================] - ETA: 0s - loss: 0.0140 - iou: 0.2628
+Epoch 8: iou improved from 0.09729 to 0.26283, saving model to detection_net.h5
+387/387 [==============================] - 197s 508ms/step - loss: 0.0140 - iou: 0.2628 - val_loss: 0.0133 - val_iou: 0.4117
+Epoch 9/30
+387/387 [==============================] - ETA: 0s - loss: 0.0124 - iou: 0.2799
+Epoch 9: iou improved from 0.26283 to 0.27986, saving model to detection_net.h5
+387/387 [==============================] - 206s 532ms/step - loss: 0.0124 - iou: 0.2799 - val_loss: 0.0131 - val_iou: 0.3189
+Epoch 10/30
+387/387 [==============================] - ETA: 0s - loss: 0.0110 - iou: 0.3620
+Epoch 10: iou improved from 0.27986 to 0.36199, saving model to detection_net.h5
+387/387 [==============================] - 197s 509ms/step - loss: 0.0110 - iou: 0.3620 - val_loss: 0.0123 - val_iou: 0.5078
+Epoch 11/30
+387/387 [==============================] - ETA: 0s - loss: 0.0099 - iou: 0.4250
+Epoch 11: iou improved from 0.36199 to 0.42502, saving model to detection_net.h5
+387/387 [==============================] - 202s 523ms/step - loss: 0.0099 - iou: 0.4250 - val_loss: 0.0117 - val_iou: 0.5202
+Epoch 12/30
+387/387 [==============================] - ETA: 0s - loss: 0.0092 - iou: 0.4548
+Epoch 12: iou improved from 0.42502 to 0.45483, saving model to detection_net.h5
+387/387 [==============================] - 204s 528ms/step - loss: 0.0092 - iou: 0.4548 - val_loss: 0.0114 - val_iou: 0.5343
+Epoch 13/30
+387/387 [==============================] - ETA: 0s - loss: 0.0087 - iou: 0.4748
+Epoch 13: iou improved from 0.45483 to 0.47475, saving model to detection_net.h5
+387/387 [==============================] - 205s 530ms/step - loss: 0.0087 - iou: 0.4748 - val_loss: 0.0110 - val_iou: 0.5309
+Epoch 14/30
+387/387 [==============================] - ETA: 0s - loss: 0.0084 - iou: 0.4859
+Epoch 14: iou improved from 0.47475 to 0.48587, saving model to detection_net.h5
+387/387 [==============================] - 193s 499ms/step - loss: 0.0084 - iou: 0.4859 - val_loss: 0.0112 - val_iou: 0.5494
+Epoch 15/30
+387/387 [==============================] - ETA: 0s - loss: 0.0079 - iou: 0.5091
+Epoch 15: iou improved from 0.48587 to 0.50906, saving model to detection_net.h5
+387/387 [==============================] - 204s 528ms/step - loss: 0.0079 - iou: 0.5091 - val_loss: 0.0105 - val_iou: 0.5459
+Epoch 16/30
+387/387 [==============================] - ETA: 0s - loss: 0.0074 - iou: 0.5311
+Epoch 16: iou improved from 0.50906 to 0.53111, saving model to detection_net.h5
+387/387 [==============================] - 204s 527ms/step - loss: 0.0074 - iou: 0.5311 - val_loss: 0.0091 - val_iou: 0.5663
+Epoch 17/30
+387/387 [==============================] - ETA: 0s - loss: 0.0071 - iou: 0.5413
+Epoch 17: iou improved from 0.53111 to 0.54128, saving model to detection_net.h5
+387/387 [==============================] - 197s 509ms/step - loss: 0.0071 - iou: 0.5413 - val_loss: 0.0089 - val_iou: 0.5720
+Epoch 18/30
+387/387 [==============================] - ETA: 0s - loss: 0.0068 - iou: 0.5574
+Epoch 18: iou improved from 0.54128 to 0.55740, saving model to detection_net.h5
+387/387 [==============================] - 198s 513ms/step - loss: 0.0068 - iou: 0.5574 - val_loss: 0.0091 - val_iou: 0.5867
+Epoch 19/30
+387/387 [==============================] - ETA: 0s - loss: 0.0062 - iou: 0.5841
+Epoch 19: iou improved from 0.55740 to 0.58408, saving model to detection_net.h5
+387/387 [==============================] - 214s 554ms/step - loss: 0.0062 - iou: 0.5841 - val_loss: 0.0090 - val_iou: 0.5861
+Epoch 20/30
+387/387 [==============================] - ETA: 0s - loss: 0.0059 - iou: 0.5984
+Epoch 20: iou improved from 0.58408 to 0.59843, saving model to detection_net.h5
+387/387 [==============================] - 212s 547ms/step - loss: 0.0059 - iou: 0.5984 - val_loss: 0.0087 - val_iou: 0.5909
+Epoch 21/30
+387/387 [==============================] - ETA: 0s - loss: 0.0056 - iou: 0.6159
+Epoch 21: iou improved from 0.59843 to 0.61590, saving model to detection_net.h5
+387/387 [==============================] - 198s 511ms/step - loss: 0.0056 - iou: 0.6159 - val_loss: 0.0085 - val_iou: 0.6028
+Epoch 22/30
+387/387 [==============================] - ETA: 0s - loss: 0.0052 - iou: 0.6336
+Epoch 22: iou improved from 0.61590 to 0.63357, saving model to detection_net.h5
+387/387 [==============================] - 197s 510ms/step - loss: 0.0052 - iou: 0.6336 - val_loss: 0.0081 - val_iou: 0.6073
+Epoch 23/30
+387/387 [==============================] - ETA: 0s - loss: 0.0050 - iou: 0.6468
+Epoch 23: iou improved from 0.63357 to 0.64676, saving model to detection_net.h5
+387/387 [==============================] - 197s 509ms/step - loss: 0.0050 - iou: 0.6468 - val_loss: 0.0075 - val_iou: 0.6165
+Epoch 24/30
+387/387 [==============================] - ETA: 0s - loss: 0.0048 - iou: 0.6585
+Epoch 24: iou improved from 0.64676 to 0.65852, saving model to detection_net.h5
+387/387 [==============================] - 194s 502ms/step - loss: 0.0048 - iou: 0.6585 - val_loss: 0.0076 - val_iou: 0.6203
+Epoch 25/30
+387/387 [==============================] - ETA: 0s - loss: 0.0047 - iou: 0.6611
+Epoch 25: iou improved from 0.65852 to 0.66115, saving model to detection_net.h5
+387/387 [==============================] - 202s 523ms/step - loss: 0.0047 - iou: 0.6611 - val_loss: 0.0076 - val_iou: 0.6423
+Epoch 26/30
+387/387 [==============================] - ETA: 0s - loss: 0.0043 - iou: 0.6778
+Epoch 26: iou improved from 0.66115 to 0.67783, saving model to detection_net.h5
+387/387 [==============================] - 203s 524ms/step - loss: 0.0043 - iou: 0.6778 - val_loss: 0.0073 - val_iou: 0.6595
+Epoch 27/30
+387/387 [==============================] - ETA: 0s - loss: 0.0040 - iou: 0.6965
+Epoch 27: iou improved from 0.67783 to 0.69653, saving model to detection_net.h5
+387/387 [==============================] - 207s 535ms/step - loss: 0.0040 - iou: 0.6965 - val_loss: 0.0076 - val_iou: 0.6718
+Epoch 28/30
+387/387 [==============================] - ETA: 0s - loss: 0.0038 - iou: 0.7082
+Epoch 28: iou improved from 0.69653 to 0.70824, saving model to detection_net.h5
+387/387 [==============================] - 195s 504ms/step - loss: 0.0038 - iou: 0.7082 - val_loss: 0.0085 - val_iou: 0.6632
+Epoch 29/30
+387/387 [==============================] - ETA: 0s - loss: 0.0037 - iou: 0.7194
+Epoch 29: iou improved from 0.70824 to 0.71935, saving model to detection_net.h5
+387/387 [==============================] - 193s 499ms/step - loss: 0.0037 - iou: 0.7194 - val_loss: 0.0082 - val_iou: 0.6816
+Epoch 30/30
+387/387 [==============================] - ETA: 0s - loss: 0.0036 - iou: 0.7202
+Epoch 30: iou improved from 0.71935 to 0.72021, saving model to detection_net.h5
+387/387 [==============================] - 202s 523ms/step - loss: 0.0036 - iou: 0.7202 - val_loss: 0.0080 - val_iou: 0.6887
+
+Epoch 1/30
+387/387 [==============================] - ETA: 0s - loss: 0.0034 - iou: 0.7341
+Epoch 1: iou improved from -inf to 0.73411, saving model to detection_net.h5
+387/387 [==============================] - 230s 531ms/step - loss: 0.0034 - iou: 0.7341 - val_loss: 0.0062 - val_iou: 0.7073
+Epoch 2/30
+387/387 [==============================] - ETA: 0s - loss: 0.0032 - iou: 0.7454
+Epoch 2: iou improved from 0.73411 to 0.74535, saving model to detection_net.h5
+387/387 [==============================] - 210s 529ms/step - loss: 0.0032 - iou: 0.7454 - val_loss: 0.0073 - val_iou: 0.7171
+Epoch 3/30
+387/387 [==============================] - ETA: 0s - loss: 0.0032 - iou: 0.7461
+Epoch 3: iou improved from 0.74535 to 0.74612, saving model to detection_net.h5
+387/387 [==============================] - 204s 528ms/step - loss: 0.0032 - iou: 0.7461 - val_loss: 0.0072 - val_iou: 0.7019
+Epoch 4/30
+387/387 [==============================] - ETA: 0s - loss: 0.0035 - iou: 0.7296
+Epoch 4: iou did not improve from 0.74612
+387/387 [==============================] - 206s 532ms/step - loss: 0.0035 - iou: 0.7296 - val_loss: 0.0056 - val_iou: 0.7111
+Epoch 5/30
+387/387 [==============================] - ETA: 0s - loss: 0.0030 - iou: 0.7573
+Epoch 5: iou improved from 0.74612 to 0.75730, saving model to detection_net.h5
+387/387 [==============================] - 195s 505ms/step - loss: 0.0030 - iou: 0.7573 - val_loss: 0.0065 - val_iou: 0.7169
+Epoch 6/30
+387/387 [==============================] - ETA: 0s - loss: 0.0030 - iou: 0.7546
+Epoch 6: iou did not improve from 0.75730
+387/387 [==============================] - 202s 524ms/step - loss: 0.0030 - iou: 0.7546 - val_loss: 0.0069 - val_iou: 0.7136
+Epoch 7/30
+387/387 [==============================] - ETA: 0s - loss: 0.0028 - iou: 0.7623
+Epoch 7: iou improved from 0.75730 to 0.76235, saving model to detection_net.h5
+387/387 [==============================] - 204s 528ms/step - loss: 0.0028 - iou: 0.7623 - val_loss: 0.0077 - val_iou: 0.7024
+Epoch 8/30
+387/387 [==============================] - ETA: 0s - loss: 0.0028 - iou: 0.7691
+Epoch 8: iou improved from 0.76235 to 0.76905, saving model to detection_net.h5
+387/387 [==============================] - 193s 499ms/step - loss: 0.0028 - iou: 0.7691 - val_loss: 0.0073 - val_iou: 0.7172
+Epoch 9/30
+387/387 [==============================] - ETA: 0s - loss: 0.0028 - iou: 0.7681
+Epoch 9: iou did not improve from 0.76905
+387/387 [==============================] - 202s 521ms/step - loss: 0.0028 - iou: 0.7681 - val_loss: 0.0064 - val_iou: 0.7271
+Epoch 10/30
+387/387 [==============================] - ETA: 0s - loss: 0.0026 - iou: 0.7796
+Epoch 10: iou improved from 0.76905 to 0.77956, saving model to detection_net.h5
+387/387 [==============================] - 203s 525ms/step - loss: 0.0026 - iou: 0.7796 - val_loss: 0.0061 - val_iou: 0.7307
+Epoch 11/30
+387/387 [==============================] - ETA: 0s - loss: 0.0024 - iou: 0.7913
+Epoch 11: iou improved from 0.77956 to 0.79129, saving model to detection_net.h5
+387/387 [==============================] - 204s 526ms/step - loss: 0.0024 - iou: 0.7913 - val_loss: 0.0067 - val_iou: 0.7280
+Epoch 12/30
+387/387 [==============================] - ETA: 0s - loss: 0.0023 - iou: 0.7990
+Epoch 12: iou improved from 0.79129 to 0.79900, saving model to detection_net.h5
+387/387 [==============================] - 201s 519ms/step - loss: 0.0023 - iou: 0.7990 - val_loss: 0.0061 - val_iou: 0.7304
+Epoch 13/30
+387/387 [==============================] - ETA: 0s - loss: 0.0022 - iou: 0.8034
+Epoch 13: iou improved from 0.79900 to 0.80337, saving model to detection_net.h5
+387/387 [==============================] - 197s 509ms/step - loss: 0.0022 - iou: 0.8034 - val_loss: 0.0063 - val_iou: 0.7260
+Epoch 14/30
+387/387 [==============================] - ETA: 0s - loss: 0.0022 - iou: 0.8076
+Epoch 14: iou improved from 0.80337 to 0.80762, saving model to detection_net.h5
+387/387 [==============================] - 189s 488ms/step - loss: 0.0022 - iou: 0.8076 - val_loss: 0.0068 - val_iou: 0.7239
+Epoch 15/30
+387/387 [==============================] - ETA: 0s - loss: 0.0021 - iou: 0.8064
+Epoch 15: iou did not improve from 0.80762
+387/387 [==============================] - 197s 510ms/step - loss: 0.0021 - iou: 0.8064 - val_loss: 0.0071 - val_iou: 0.7191
+Epoch 16/30
+387/387 [==============================] - ETA: 0s - loss: 0.0026 - iou: 0.7811
+Epoch 16: iou did not improve from 0.80762
+387/387 [==============================] - 198s 512ms/step - loss: 0.0026 - iou: 0.7811 - val_loss: 0.0063 - val_iou: 0.7138
+Epoch 17/30
+387/387 [==============================] - ETA: 0s - loss: 0.0021 - iou: 0.8089
+Epoch 17: iou improved from 0.80762 to 0.80893, saving model to detection_net.h5
+387/387 [==============================] - 187s 484ms/step - loss: 0.0021 - iou: 0.8089 - val_loss: 0.0071 - val_iou: 0.7248
+Epoch 18/30
+387/387 [==============================] - ETA: 0s - loss: 0.0019 - iou: 0.8222
+Epoch 18: iou improved from 0.80893 to 0.82224, saving model to detection_net.h5
+387/387 [==============================] - 198s 513ms/step - loss: 0.0019 - iou: 0.8222 - val_loss: 0.0076 - val_iou: 0.7258
+Epoch 19/30
+387/387 [==============================] - ETA: 0s - loss: 0.0019 - iou: 0.8241
+Epoch 19: iou improved from 0.82224 to 0.82405, saving model to detection_net.h5
+387/387 [==============================] - 189s 489ms/step - loss: 0.0019 - iou: 0.8241 - val_loss: 0.0083 - val_iou: 0.7142
+Epoch 20/30
+387/387 [==============================] - ETA: 0s - loss: 0.0018 - iou: 0.8326
+Epoch 20: iou improved from 0.82405 to 0.83261, saving model to detection_net.h5
+387/387 [==============================] - 198s 512ms/step - loss: 0.0018 - iou: 0.8326 - val_loss: 0.0088 - val_iou: 0.7178
+Epoch 21/30
+387/387 [==============================] - ETA: 0s - loss: 0.0019 - iou: 0.8260
+Epoch 21: iou did not improve from 0.83261
+387/387 [==============================] - 198s 513ms/step - loss: 0.0019 - iou: 0.8260 - val_loss: 0.0105 - val_iou: 0.7105
+Epoch 22/30
+387/387 [==============================] - ETA: 0s - loss: 0.0019 - iou: 0.8206
+Epoch 22: iou did not improve from 0.83261
+387/387 [==============================] - 188s 487ms/step - loss: 0.0019 - iou: 0.8206 - val_loss: 0.0101 - val_iou: 0.7021
+Epoch 23/30
+387/387 [==============================] - ETA: 0s - loss: 0.0018 - iou: 0.8299
+Epoch 23: iou did not improve from 0.83261
+387/387 [==============================] - 199s 515ms/step - loss: 0.0018 - iou: 0.8299 - val_loss: 0.0094 - val_iou: 0.7140
