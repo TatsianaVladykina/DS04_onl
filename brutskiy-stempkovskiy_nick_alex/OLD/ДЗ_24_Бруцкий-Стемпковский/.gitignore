@@ -1,0 +1,5 @@
+*.zip
+/pics
+/pics_splitted
+/masks
+/pics_non_condition
