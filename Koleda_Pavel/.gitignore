@@ -26,7 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-*.h5
+# *.h5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -132,6 +132,6 @@ dmypy.json
 .DS_Store
 
 # Files
-.csv
-.h5
-.jpg
+**/*.csv
+**/*.h5
+**/*.jpg
