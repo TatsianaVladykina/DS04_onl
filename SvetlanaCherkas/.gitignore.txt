@@ -26,7 +26,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-# *.h5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -130,14 +129,3 @@ dmypy.json
 .pyre/
 
 .DS_Store
-
-# Files
-**/*.csv
-**/*.h5
-<<<<<<< HEAD
-**/*.jpg
-**/*.db
-**/HW_db
-=======
-**/*.jpg
->>>>>>> parent of 5237b7b (HW_3 (SQL) added)
