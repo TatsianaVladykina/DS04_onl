@@ -134,10 +134,8 @@ dmypy.json
 # Files
 **/*.csv
 **/*.h5
-<<<<<<< HEAD
 **/*.jpg
 **/*.db
 **/HW_db
-=======
 **/*.jpg
->>>>>>> parent of 5237b7b (HW_3 (SQL) added)
+HW_db
